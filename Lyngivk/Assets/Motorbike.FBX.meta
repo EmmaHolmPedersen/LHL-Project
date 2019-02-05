@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: ea0f6ecd7a93dd9419958c045b7d54aa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: backPivot_CTRL
+    100002: Circle001
+    100004: Cylinder007
+    100006: Cylinder010
+    100008: Cylinder011
+    100010: frontPivot_CTRL
+    100012: ImageRef01
+    100014: //RootNode
+    100016: motorbike_Body
+    100018: motorbike_FrontGuard
+    100020: motorbike_Stearing
+    100022: motorbike_WheelBack
+    100024: motorbike_WheelFront
+    100026: motorcycleRoot_CTRL
+    100028: motorcycleTilt_CTRL
+    100030: Point002
+    100032: Point003
+    100034: Point004
+    100036: Spring002
+    100038: VEH_Motorcycle_GEO_GRP
+    100040: wheelBackRoll_CTRL
+    100042: wheelFrontRoll_CTRL
+    400000: backPivot_CTRL
+    400002: Circle001
+    400004: Cylinder007
+    400006: Cylinder010
+    400008: Cylinder011
+    400010: frontPivot_CTRL
+    400012: ImageRef01
+    400014: //RootNode
+    400016: motorbike_Body
+    400018: motorbike_FrontGuard
+    400020: motorbike_Stearing
+    400022: motorbike_WheelBack
+    400024: motorbike_WheelFront
+    400026: motorcycleRoot_CTRL
+    400028: motorcycleTilt_CTRL
+    400030: Point002
+    400032: Point003
+    400034: Point004
+    400036: Spring002
+    400038: VEH_Motorcycle_GEO_GRP
+    400040: wheelBackRoll_CTRL
+    400042: wheelFrontRoll_CTRL
+    2100000: 08 - Default
+    2100002: 02 - Default
+    2300000: Cylinder007
+    2300002: Cylinder010
+    2300004: Cylinder011
+    2300006: ImageRef01
+    2300008: motorbike_Body
+    2300010: motorbike_FrontGuard
+    2300012: motorbike_Stearing
+    2300014: motorbike_WheelBack
+    2300016: motorbike_WheelFront
+    2300018: Spring002
+    3300000: Cylinder007
+    3300002: Cylinder010
+    3300004: Cylinder011
+    3300006: ImageRef01
+    3300008: motorbike_Body
+    3300010: motorbike_FrontGuard
+    3300012: motorbike_Stearing
+    3300014: motorbike_WheelBack
+    3300016: motorbike_WheelFront
+    3300018: Spring002
+    4300000: ImageRef01
+    4300002: motorbike_Stearing
+    4300004: motorbike_FrontGuard
+    4300006: motorbike_WheelFront
+    4300008: Cylinder007
+    4300010: Spring002
+    4300012: Cylinder011
+    4300014: Cylinder010
+    4300016: motorbike_Body
+    4300018: motorbike_WheelBack
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
