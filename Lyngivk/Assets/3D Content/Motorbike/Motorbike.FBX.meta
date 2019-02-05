@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: ea0f6ecd7a93dd9419958c045b7d54aa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: backPivot_CTRL
+    100002: Circle001
+    100004: Cylinder007
+    100006: Cylinder010
+    100008: Cylinder011
+    100010: frontPivot_CTRL
+    100012: ImageRef01
+    100014: //RootNode
+    100016: motorbike_Body
+    100018: motorbike_FrontGuard
+    100020: motorbike_Stearing
+    100022: motorbike_WheelBack
+    100024: motorbike_WheelFront
+    100026: motorcycleRoot_CTRL
+    100028: motorcycleTilt_CTRL
+    100030: Point002
+    100032: Point003
+    100034: Point004
+    100036: Spring002
+    100038: VEH_Motorcycle_GEO_GRP
+    100040: wheelBackRoll_CTRL
+    100042: wheelFrontRoll_CTRL
+    400000: backPivot_CTRL
+    400002: Circle001
+    400004: Cylinder007
+    400006: Cylinder010
+    400008: Cylinder011
+    400010: frontPivot_CTRL
+    400012: ImageRef01
+    400014: //RootNode
+    400016: motorbike_Body
+    400018: motorbike_FrontGuard
+    400020: motorbike_Stearing
+    400022: motorbike_WheelBack
+    400024: motorbike_WheelFront
+    400026: motorcycleRoot_CTRL
+    400028: motorcycleTilt_CTRL
+    400030: Point002
+    400032: Point003
+    400034: Point004
+    400036: Spring002
+    400038: VEH_Motorcycle_GEO_GRP
+    400040: wheelBackRoll_CTRL
+    400042: wheelFrontRoll_CTRL
+    2100000: 08 - Default
+    2100002: 02 - Default
+    2300000: Cylinder007
+    2300002: Cylinder010
+    2300004: Cylinder011
+    2300006: ImageRef01
+    2300008: motorbike_Body
+    2300010: motorbike_FrontGuard
+    2300012: motorbike_Stearing
+    2300014: motorbike_WheelBack
+    2300016: motorbike_WheelFront
+    2300018: Spring002
+    3300000: Cylinder007
+    3300002: Cylinder010
+    3300004: Cylinder011
+    3300006: ImageRef01
+    3300008: motorbike_Body
+    3300010: motorbike_FrontGuard
+    3300012: motorbike_Stearing
+    3300014: motorbike_WheelBack
+    3300016: motorbike_WheelFront
+    3300018: Spring002
+    4300000: ImageRef01
+    4300002: motorbike_Stearing
+    4300004: motorbike_FrontGuard
+    4300006: motorbike_WheelFront
+    4300008: Cylinder007
+    4300010: Spring002
+    4300012: Cylinder011
+    4300014: Cylinder010
+    4300016: motorbike_Body
+    4300018: motorbike_WheelBack
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Motorbike(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ImageRef01
+      parentName: Motorbike(Clone)
+      position: {x: -3.2680361, y: 1.9255545, z: 1.8906409}
+      rotation: {x: -0.00000006175273, y: 0.70710677, z: 0.00000006175272, w: 0.7071068}
+      scale: {x: 7.980571, y: 4.3339386, z: 4.3339386}
+    - name: motorcycleRoot_CTRL
+      parentName: Motorbike(Clone)
+      position: {x: 0.017899489, y: 0, z: 0.2615006}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.92134434, y: 0.92134434, z: 0.92134434}
+    - name: frontPivot_CTRL
+      parentName: motorcycleRoot_CTRL
+      position: {x: -0.007047032, y: 0.9190449, z: 0.34289283}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: motorcycleTilt_CTRL
+      parentName: frontPivot_CTRL
+      position: {x: -0.0006031179, y: -0.8011939, z: -0.3428927}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: backPivot_CTRL
+      parentName: motorcycleTilt_CTRL
+      position: {x: 0.0006031966, y: -0.94503284, z: 0.34316814}
+      rotation: {x: 0, y: 0, z: -2.393875e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Circle001
+      parentName: backPivot_CTRL
+      position: {x: -0.00000008940697, y: 1.3278404, z: 0.9067668}
+      rotation: {x: 0.21643957, y: -5.2258103e-23, z: 1.158534e-23, w: 0.976296}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Point004
+      parentName: Circle001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00016601122, y: 0.0037980091, z: 0.00016578508, w: 0.9999928}
+      scale: {x: 1, y: 1, z: 1.000001}
+    - name: motorbike_Stearing
+      parentName: Point004
+      position: {x: 0.018836604, y: -0.000000076293944, z: -0.011804352}
+      rotation: {x: 0.94716805, y: 0.15847683, z: -0.2081144, w: 0.18559685}
+      scale: {x: -0.678765, y: -0.194046, z: -0.363481}
+    - name: motorbike_FrontGuard
+      parentName: Point004
+      position: {x: -0.0000000017881393, y: 0.21082969, z: 0.05550079}
+      rotation: {x: 0.000000053194242, y: 0.7071069, z: 0.70710665, w: 0.00000005319422}
+      scale: {x: 1.222525, y: 1.222525, z: 1.222525}
+    - name: wheelFrontRoll_CTRL
+      parentName: Point004
+      position: {x: 0.0075858408, y: -0.004477844, z: -0.9988461}
+      rotation: {x: -0.21659993, y: -0.0036719986, z: -0.000983727, w: 0.9762531}
+      scale: {x: 1, y: 1, z: 0.999999}
+    - name: Point003
+      parentName: wheelFrontRoll_CTRL
+      position: {x: 0.000000010728836, y: -0.0000003814697, z: -0.00000019073485}
+      rotation: {x: -0.000000041080245, y: 0.00000044417908, z: 0.00000015469239,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: motorbike_WheelFront
+      parentName: Point003
+      position: {x: -0.0000000011920929, y: 0.00000015258789, z: 0}
+      rotation: {x: 0.5000002, y: 0.4999998, z: 0.49999994, w: 0.5000001}
+      scale: {x: 1, y: 1, z: 2.317109}
+    - name: VEH_Motorcycle_GEO_GRP
+      parentName: backPivot_CTRL
+      position: {x: -0.00000008940697, y: 0.9301348, z: -0.34316826}
+      rotation: {x: 0.00000005146063, y: 0.00000023841858, z: -1.2269171e-14, w: 1}
+      scale: {x: 4.391796, y: 4.391796, z: 1}
+    - name: Cylinder007
+      parentName: VEH_Motorcycle_GEO_GRP
+      position: {x: 0.016541556, y: -0.072557874, z: 0.5432964}
+      rotation: {x: -0.373959, y: 0, z: -0, w: 0.92744523}
+      scale: {x: 0.227697, y: 0.603141, z: 0.829498}
+    - name: Spring002
+      parentName: VEH_Motorcycle_GEO_GRP
+      position: {x: 0.02487113, y: -0.13828665, z: 0.6252677}
+      rotation: {x: -0.3826834, y: -6.7763424e-22, z: 1.6359538e-21, w: 0.92387956}
+      scale: {x: 0.119587, y: 0.38088, z: 0.38088}
+    - name: Cylinder011
+      parentName: VEH_Motorcycle_GEO_GRP
+      position: {x: -0.025759734, y: -0.15660599, z: 0.55944264}
+      rotation: {x: -0.3867442, y: 0, z: -0, w: 0.92218703}
+      scale: {x: 0.227697, y: 0.779901, z: 0.666034}
+    - name: Cylinder010
+      parentName: VEH_Motorcycle_GEO_GRP
+      position: {x: -0.01903715, y: -0.072557874, z: 0.5432963}
+      rotation: {x: -0.373959, y: -0.0000009711147, z: -0.00000039156706, w: 0.92744523}
+      scale: {x: 0.227697, y: 0.603141, z: 0.829498}
+    - name: motorbike_Body
+      parentName: VEH_Motorcycle_GEO_GRP
+      position: {x: -0.010171239, y: 0.14356717, z: 0.48980808}
+      rotation: {x: 0.07898802, y: 0.7026811, z: 0.07898896, w: 0.7026812}
+      scale: {x: 0.811435, y: 0.811435, z: 0.227697}
+    - name: wheelBackRoll_CTRL
+      parentName: backPivot_CTRL
+      position: {x: -0.00000008940697, y: 0.0000003814697, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: -3.4922023e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Point002
+      parentName: wheelBackRoll_CTRL
+      position: {x: 0.00000008940697, y: -0.0000003814697, z: -0.000000114440915}
+      rotation: {x: -0.00000023428525, y: -0.00000002567516, z: 0.00000023605048,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: motorbike_WheelBack
+      parentName: Point002
+      position: {x: -0.00000016093254, y: -0.000000076293944, z: 0.000000114440915}
+      rotation: {x: 0.45451963, y: 0.541675, z: 0.45451963, w: 0.54167527}
+      scale: {x: 1.08115, y: 1.08115, z: 1.41934}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
